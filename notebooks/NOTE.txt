@@ -1,0 +1,18 @@
+# Notebooks Directory
+
+This directory is for storing Jupyter notebooks related to the RAG with Hugging Face lab.
+
+## Instructions
+
+Once you have completed the Coursera/IBM lab notebook:
+
+1. Download the completed `.ipynb` file from the Coursera lab environment
+2. Upload it to this directory using GitHub's web interface or git commands
+3. Update the main README.md to reference the local notebook file
+
+## Lab Notebook
+- The original lab instructions and starter notebook can be found at:
+  https://cf-courses-data.static.labs.skills.network/uzHbkDoGO_ds6cnm3EGtGg/RAG-v1.ipynb
+
+## Note
+This is a placeholder file to ensure the `/notebooks` directory is created in the repository.
